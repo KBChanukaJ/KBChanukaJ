@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋,  I'm Buddhi Chanuka Jayashan</h1>
+<h1 align="left">Hi 👋, I'm Buddhi Chanuka Jayashan</h1>
 <h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
