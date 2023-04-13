@@ -14,7 +14,7 @@
 <br>
 
 [![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://kbchanukaj.github.io)](https://kbchanukaj.github.io)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94771637551)](https://wa.me/+94771637551)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94771637551)](https://wa.me/+94711866883)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/buddhi_chanuka)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:buddhichanuka@gmail.com)](mailto:buddhichanuka@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/KBChanukaJ)](https://github.com/KBChanukaJ)
