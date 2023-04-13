@@ -13,7 +13,7 @@
 <p align="left">
 <br>
 
-[![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://madushansandaru1.github.io)](https://madushansandaru1.github.io)
+[![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://kbchanukaj.github.io)](https://kbchanukaj.github.io)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94771637551)](https://wa.me/+94771637551)
 [![Skype Badge](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)](https://join.skype.com/invite/yrHGvgiHdCb2)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/m_sandaru1)
