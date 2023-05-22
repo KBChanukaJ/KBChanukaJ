@@ -29,4 +29,4 @@
 
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KBChanukaJ&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBChanukaJ&&exclude_repo=KBChanukaJ&layout=compact&theme=dracula" alt="languages"/>
+
