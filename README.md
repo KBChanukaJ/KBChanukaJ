@@ -1,3 +1,4 @@
+![Banner!](Banner.png)
 <center><h1 align="center">Hi 👋, I'm Buddhi Chanuka Jayashan</h1><center>
 <h2 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h2>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
