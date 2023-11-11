@@ -73,13 +73,4 @@
 ![Buddhi Chanuka's Graph](https://github-readme-activity-graph.vercel.app/graph?username=KBChanukaJ&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
-<p align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <details open><summary>Indepth analysis</summary><img src="https://github.com/KBChanukaJ/metrics/blob/examples/metrics.plugin.followup.indepth.svg" alt=""></img></details>
-      <details><summary>Created on a user's repositories</summary><img src="https://github.com/KBChanukaJ/metrics/blob/examples/metrics.plugin.followup.svg" alt=""></img></details>
-      <details><summary>Created by a user</summary><img src="https://github.com/KBChanukaJ/metrics/blob/examples/metrics.plugin.followup.user.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
-</p>
+
