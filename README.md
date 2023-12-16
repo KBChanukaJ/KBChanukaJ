@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 - 🌱 I’m currently learning **Spring Boot , Angular**
-- ❤️ Love to writing code and learning new features
+- ❤️ Love to writing code and learning new features. 
 - 📫 How to reach me **buddhichanuka@gmail.com**
 
 
