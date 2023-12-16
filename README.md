@@ -3,9 +3,9 @@
 <h2 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for BICT (Hons))</h2>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-- 🌱 I’m currently learning **Spring Boot , Angular**
+- 🌱 I’m currently learning **Spring Boot , Angular**.
 - ❤️ Love to writing code and learning new features. 
-- 📫 How to reach me **buddhichanuka@gmail.com**
+- 📫 How to reach me **buddhichanuka@gmail.com**.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbchanukaj&label=Profile%20views&color=0e75b6&style=flat" alt="kbchanukaj" /> </p>
