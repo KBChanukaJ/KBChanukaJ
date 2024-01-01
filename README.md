@@ -7,7 +7,6 @@
 - ❤️ Love to writing code and learning new features. 
 - 📫 How to reach me **buddhichanuka@gmail.com**.
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbchanukaj&label=Profile%20views&color=0e75b6&style=flat" alt="kbchanukaj" /> </p>
 
 <h3 align="left">Connect with me:</h3>
